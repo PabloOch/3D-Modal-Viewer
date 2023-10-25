@@ -7,7 +7,7 @@
 $ git clone https://github.com/PabloOch/3D-Model-Viewer.git
 
 # Go into the repository
-$ cd cd 3d-landing
+$ cd 3D-Model-Viewer
 
 # Install dependencies
 $ npm install
